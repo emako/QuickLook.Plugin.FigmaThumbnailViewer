@@ -14,6 +14,10 @@ The following file extensions are treated as Figma files.
 
 - fig
 
+## How to create a Figma file?
+
+<img src="assets/image-20250102173741365.png" alt="image-20250102173741365" style="zoom: 50%;" />
+
 ## Thanks to
 
  - https://www.figma.com/
