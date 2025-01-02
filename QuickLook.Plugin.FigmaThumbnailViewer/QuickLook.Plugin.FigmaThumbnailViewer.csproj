@@ -15,7 +15,7 @@
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
         <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-        <ProjectGuid>{2A32B8B3-F6C9-4A9B-91E0-D0A61F82DB15}</ProjectGuid>
+        <ProjectGuid>{706F39C3-17BC-45D5-946C-11A51D686A14}</ProjectGuid>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
