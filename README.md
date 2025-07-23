@@ -1,3 +1,5 @@
+> This plugin is now part of QuickLook's main branch.
+
 <img src="https://user-images.githubusercontent.com/1687847/82130498-8c3eac80-97d4-11ea-9e88-372ab9c50295.png" width="80">
 
 # QuickLook.Plugin.FigmaThumbnailViewer
